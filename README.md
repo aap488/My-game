@@ -1,2 +1,3 @@
 # My-game
-My test game
+
+This is a repository for my test game.
